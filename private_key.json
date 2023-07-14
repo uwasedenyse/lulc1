@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flowing-depot-384513",
+  "private_key_id": "c2d6539dc92367b9137674e3e27f211288fd5536",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZc2hnlirU193O\nwc8RI+UAkTtsCl+FxyO6hzD088vKpmGiQOLdDTkd0UXcAH4Opi4i303ZLHqDZhHY\n1rhUeE8OmhM0NarzZ8GbdmHKsjNEM7d2WmKX6fL/NT6uzAxl2SZ0wvFKf/fDGLmZ\nSIGFWhuwiNjU28Nyc5n2qtFZYa3/SdexEPL56LICv67LJWXO2DBNAM/Pfq3WMuha\nq3ohlCH4vBt+DoOqNUV5Twe6jFuhT/1e/nJ5wgCGafjuDHyQEt4p3T9fNtL2Zver\nFCHbzFLWuqCMDjSoA58QtgO3GsjnTemcB6Dp/rojdrhpcvthwnEx2tTQAajqb41I\nFRK4GX1xAgMBAAECgf8W3a2NdbrC8Vdh9vO5x7pJNV2SnwAR5vsBiUeDl+/UWrEz\n+joThaMpuPHzZd4ofSUPbu7wjQ+HlbPf/NSlk9uxOUdGobclbXUD8fCqFsy7E6Dl\ndlls1zx+U18SNpHQWZC1d0PNdyt4eSdyXeNfKkziAuogMCxnoCscadd264WBnUdj\nvN3/D85hxvx7fNpOBYzzdkPe2HBnhjQCPyXkFn70CmVq1x0ruWq1XfJEZbKvAodd\nmSx0hHOpKWc0zZKtXczZm04wAwCT9TnwHf9hNpLU9f5iqEW1JQu1C3I8WIIzINbg\n1ErfALzykt9v+rOepjJfRWp/6cavV4ZI0Cw2DfECgYEA++8frddo+rQFGP4WFrRY\nVBaDpKMsDai8axvkuW8c0IRsGpVrH2dDrNCJRuR5KRG54kKLFato/UO5AM3ttjoX\n3j4HqpjuRzd08n/BDKQzZ2gxpTiB0DCiDCjxQW7tsfluGOfVb9digvi3rLI0Q4Bj\nPFR7aQLet/ZHI8ecwQnYstkCgYEA3PXQpTWrAZly2kwSWinuCt/VVTq9CwMtj7Js\nB1che14qFL3Lh2nMFj13l8FR1vhz2F/PpuivIKt8kylGsmVKm+jeCRK6SQoYaD6Q\nRx2rKVenl6YtWMYbvfEfeVq4nzZp4PlGpEWBQEr4/De8N3D+ZZdhJ1W1sSVdkg0R\nk7Ar0FkCgYB5GDZE7A50usTcf30EiskOGghKwXeyVRHD9hNZonPaMlx35qwn2w3n\nahEh9z3ZpMCRZeTOlKaRXdT18wW4mnHQjEZJFNsrdheLXCbhuadPpACA5wlWlZm+\neIuGJRixfDAUXpL0ADZEt+Ipazq9219Xp0/uaMe+6uzE4PSSwPXc+QKBgQDB6Q/k\nDMc4Lhw3K09nxShcbrbfhx7kDTPsyZ44iuSdSbQQY8e73ML4OZU8nrFdwMiZeOvZ\nBJa8SwKWe0DJyk7BqIlC2SaWdr+YrF8dqhHNxFkVowZkw+cQuAzxCQbA4pXkk57F\nByI49BKx9Y+97/Gx4jmmtXcwMSR+ye1E+PRacQKBgQC9XLm4rKC9xJSvG4U7no8U\nGYPspFT/PPr4+UvieAgSF8UbDEgWk9kkFYxqmdk3YYVvvtRZGgsER+cmQg+neFWv\nkBMisJuj1GWJIOgPM6njYAai3o+qPep3KUDHRGp1WbehxCIsZfj0rhHC3Hs7Cqq0\nLDhhEUNc7EtBfn5uSbEWfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uwase-denyse@flowing-depot-384513.iam.gserviceaccount.com",
+  "client_id": "108775281589601055210",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uwase-denyse%40flowing-depot-384513.iam.gserviceaccount.com"
+}
